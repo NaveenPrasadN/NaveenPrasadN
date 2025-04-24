@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ranjith
+# 👋 Hi, I'm NaveenPrasad N
 
 *BTech AI&DS Student*
 
