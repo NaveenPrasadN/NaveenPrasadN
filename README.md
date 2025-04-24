@@ -29,7 +29,7 @@
 
 <p> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prasad_np" alt="GFG stats"/></a></p>
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)]()
 
 
 
@@ -39,4 +39,4 @@
 *Happy coding!*
 
 
-[![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)]()
